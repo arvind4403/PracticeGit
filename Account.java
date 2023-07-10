@@ -1,7 +1,7 @@
 public class BankAccount {
    private int AccountNo;
    private double AccountBalance;
-    gitprivate String AccountHolderName;
+    private String AccountHolderName;
 
    public BankAccount(int accountNo, double accountBalance, String AccountHolderName) {
        this.AccountNo = accountNo;
